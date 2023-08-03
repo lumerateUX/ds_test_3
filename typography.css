@@ -1,0 +1,26 @@
+.typographyTextPrimary 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTextSecondary 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
