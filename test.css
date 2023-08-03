@@ -5,3 +5,5 @@ h1 {
 .green{
   color:green;
 }
+
+.primary-color{ var(--colorOrange);}
